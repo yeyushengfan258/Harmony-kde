@@ -29,7 +29,7 @@
   <defs
      id="defs24" />
   <sodipodi:namedview
-     pagecolor="#646464"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -41,9 +41,9 @@
      inkscape:window-height="973"
      id="namedview22"
      showgrid="true"
-     inkscape:zoom="9.0795452"
-     inkscape:cx="53.430222"
-     inkscape:cy="16.225905"
+     inkscape:zoom="12.840416"
+     inkscape:cx="70.040321"
+     inkscape:cy="11.252481"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -107,7 +107,7 @@
        y="0"
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.3;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4217"
        cx="80"
        cy="11"
@@ -154,6 +154,6 @@
        cy="11"
        cx="80"
        id="circle871"
-       style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.3;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

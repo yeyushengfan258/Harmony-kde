@@ -82,9 +82,9 @@
      inkscape:window-height="973"
      id="namedview22"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="20.664338"
-     inkscape:cy="2.2635216"
+     inkscape:zoom="16"
+     inkscape:cx="50.92118"
+     inkscape:cy="10.961027"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -141,7 +141,7 @@
          height="2"
          width="10"
          id="rect905"
-         style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:0.3;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
   </g>
   <g
@@ -158,7 +158,7 @@
          rx="0"
          ry="0" />
       <rect
-         style="opacity:1;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:0.3;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect907"
          width="10"
          height="2"

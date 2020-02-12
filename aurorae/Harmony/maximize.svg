@@ -71,9 +71,9 @@
      inkscape:window-height="973"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="47.576941"
-     inkscape:cy="11.069246"
+     inkscape:zoom="15.999999"
+     inkscape:cx="36.804189"
+     inkscape:cy="11.115629"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -180,7 +180,7 @@
        rx="0"
        ry="0" />
     <circle
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.66666663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fafafa;stroke-width:1.66666663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
        id="circle907"
        cx="41.102409"
        cy="11.791"
@@ -202,6 +202,6 @@
        cy="11.791"
        cx="73.269775"
        id="circle909"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#323232;stroke-width:1.66666663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fafafa;stroke-width:1.66666663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
 </svg>
