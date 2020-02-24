@@ -34,15 +34,15 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg4379"
-     inkscape:cx="0.43836842"
-     inkscape:cy="68.07687"
+     inkscape:cx="4.1477289"
+     inkscape:cy="91.470252"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="973"
+     inkscape:window-height="1023"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="32"
      inkscape:zoom="1.9975"
      objecttolerance="10"
      pagecolor="#dfe2e4"
@@ -54,19 +54,15 @@
        id="grid839"
        type="xygrid" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(4.6153846,0,0,4.6153846,418.46154,49.230769)"
-     id="g948">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.4757849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m -69,-2 a 13,13 0 0 0 -13,13 13,13 0 0 0 13,13 13,13 0 0 0 13,-13 13,13 0 0 0 -13,-13 z m 0,4 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 z"
-       id="path944" />
-    <circle
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.45408767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="circle946"
-       cx="-69"
-       cy="11"
-       r="4" />
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.21253204px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.8803134"
+     x="9.2606773"
+     y="109.03525"
+     id="text1505"><tspan
+       sodipodi:role="line"
+       id="tspan1503"
+       x="9.2606773"
+       y="109.03525"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.21253204px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.8803134">Harmony</tspan></text>
 </svg>

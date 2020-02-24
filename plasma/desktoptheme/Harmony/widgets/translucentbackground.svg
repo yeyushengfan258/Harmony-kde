@@ -35,13 +35,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      id="namedview179"
      showgrid="false"
-     inkscape:zoom="5.0374053"
-     inkscape:cx="32.220428"
-     inkscape:cy="27.113111"
+     inkscape:zoom="7.1239669"
+     inkscape:cx="19.162789"
+     inkscape:cy="30.102874"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -484,7 +484,7 @@
      id="top"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.6;fill:#1a1a1a"
+       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1"
        id="rect42"
        height="32"
        width="6"
@@ -516,7 +516,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="color:#eff0f1;opacity:0.6;fill:#1a1a1a"
+       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1"
        d="m 19,6 c -3.324,0 -6,2.676 -6,6 h 4 1 1 V 11 7 Z"
        transform="translate(0,904.36)"
        id="path55" />
@@ -525,7 +525,7 @@
      id="bottom"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.6;fill:#1a1a1a"
+       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1"
        id="rect69"
        height="32"
        width="6"
@@ -546,7 +546,7 @@
      id="left"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.6;fill:#1a1a1a"
+       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1"
        id="rect96"
        height="32"
        width="6"
@@ -567,7 +567,7 @@
      id="right"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.6;fill:#1a1a1a"
+       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1"
        id="rect101"
        height="32"
        width="6"
@@ -593,7 +593,7 @@
        y="916.35999"
        x="19" />
     <rect
-       style="color:#eff0f1;opacity:0.6;fill:#1a1a1a"
+       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1"
        id="rect108"
        height="32"
        width="32"
