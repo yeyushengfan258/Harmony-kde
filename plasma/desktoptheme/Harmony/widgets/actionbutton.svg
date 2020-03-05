@@ -13,7 +13,7 @@
    version="1"
    id="svg99"
    sodipodi:docname="actionbutton.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata103">
     <rdf:RDF>
@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      id="namedview101"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="54.777862"
-     inkscape:cy="73.043189"
+     inkscape:zoom="3.6874999"
+     inkscape:cx="47.426361"
+     inkscape:cy="81.315245"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="45"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg99" />
   <defs
@@ -224,7 +224,7 @@
        y="-1.91"
        id="rect37" />
     <circle
-       style="fill:#4285f4"
+       style="fill:#3278e6;fill-opacity:1"
        cx="-32"
        cy="8"
        r="8"
@@ -242,7 +242,7 @@
        y="-1.91"
        id="rect42" />
     <path
-       style="fill:#4285f4"
+       style="fill:#3278e6;fill-opacity:1"
        transform="matrix(1.0227273,0,0,1.0227273,0.63711821,-0.0918182)"
        d="m -24,8 a 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 8,8 0 0 1 8,8 z"
        id="path44" />

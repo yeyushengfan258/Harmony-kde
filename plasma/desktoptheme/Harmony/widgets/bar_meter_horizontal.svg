@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="710"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      id="namedview33"
      showgrid="false"
      inkscape:zoom="15.733333"
-     inkscape:cx="17.925545"
+     inkscape:cx="7.8513922"
      inkscape:cy="16.1353"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="45"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg31" />
   <defs
@@ -158,53 +158,53 @@
      class="ColorScheme-Highlight"
      d="m 17,27 v 3 c 1.662,0 3,-1.338 3,-3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-right"
      class="ColorScheme-Highlight"
      d="m 17,24 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-topright"
      class="ColorScheme-Highlight"
      d="m 17,20 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-bottomleft"
      class="ColorScheme-Highlight"
      d="m 10,27 c 0,1.662 1.338,3 3,3 v -3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-left"
      class="ColorScheme-Highlight"
      d="m 10,24 v 2 h 3 v -2 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-topleft"
      class="ColorScheme-Highlight"
      d="m 13,20 c -1.662,0 -3,1.338 -3,3 h 3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-bottom"
      class="ColorScheme-Highlight"
      d="m 14,27 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-center"
      class="ColorScheme-Highlight"
      d="m 16,24 h -2 v 2 h 2 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
   <path
      id="bar-active-top"
      class="ColorScheme-Highlight"
      d="m 14,20 v 3 h 2 v -3 z"
      inkscape:connector-curvature="0"
-     style="color:#3daee9;fill:#4285f4" />
+     style="color:#3daee9;fill:#3278e6;fill-opacity:1" />
 </svg>

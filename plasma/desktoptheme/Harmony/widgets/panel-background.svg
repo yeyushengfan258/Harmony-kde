@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1005"
      id="namedview202"
      showgrid="true"
      inkscape:zoom="9.776875"
-     inkscape:cx="67.423598"
+     inkscape:cx="49.063948"
      inkscape:cy="26.598505"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="45"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg200"
      showguides="true"
@@ -451,7 +451,7 @@
        height="32"
        width="6"
        id="rect4152"
-       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-Background" />
   </g>
@@ -459,7 +459,7 @@
      id="topleft"
      transform="matrix(1.3333333,0,0,1.3333333,26.666667,-1207.8162)">
     <path
-       style="opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none;stroke-width:2"
+       style="opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:2"
        d="m 25,910.36218 c -6.647974,0 -12,5.35203 -12,12 h 8 2 2 v -2 -8 z"
        id="rect4159"
        inkscape:connector-curvature="0" />
@@ -468,7 +468,7 @@
      id="topright"
      transform="matrix(1.3333378,0,0,1.3333378,11.999747,-1207.8202)">
     <path
-       style="opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none;stroke-width:1.99999332"
+       style="opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:1.99999332"
        d="m 45.00004,910.36218 v 1.99999 7.99998 1.99999 h 1.999994 1.999993 5.99998 H 57 c 0,-6.64795 -5.352008,-11.99996 -11.99996,-11.99996 z"
        id="rect4177"
        inkscape:connector-curvature="0" />
@@ -478,7 +478,7 @@
      transform="matrix(0.37500096,0,0,2.6666653,52.874957,-2494.9645)">
     <rect
        transform="rotate(90)"
-       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
        id="rect4148"
        width="6"
        height="32"
@@ -490,7 +490,7 @@
      id="bottomleft"
      transform="matrix(1.3333311,0,0,1.3333311,26.666696,-1222.4807)">
     <path
-       style="opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none;stroke-width:2.00000334"
+       style="opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:2.00000334"
        d="m 13,942.36216 c 0,6.64798 5.352035,12.00002 12.00002,12.00002 v -2 -8.00002 -2 h -2.000003 -2.000004 -6.00001 z"
        id="path5048"
        inkscape:connector-curvature="0" />
@@ -499,7 +499,7 @@
      id="bottomright"
      transform="matrix(1.3333311,0,0,1.3333311,12.000127,-1222.4807)">
     <path
-       style="opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none;stroke-width:2.00000334"
+       style="opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:2.00000334"
        d="m 44.99998,942.36216 v 2 8.00002 2 C 51.647965,954.36218 57,949.01014 57,942.36216 h -2.000003 -6.00001 -2.000004 z"
        id="rect4177-6"
        inkscape:connector-curvature="0" />
@@ -509,7 +509,7 @@
      transform="matrix(2.6666662,0,0,0.37500318,9.3333311,-321.63873)">
     <rect
        transform="scale(-1,1)"
-       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
        id="rect4144"
        width="5.9999995"
        height="32"
@@ -526,7 +526,7 @@
        height="32"
        width="5.9999995"
        id="rect4140"
-       style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
        class="ColorScheme-Background" />
   </g>
   <rect
@@ -536,7 +536,7 @@
      height="12.000099"
      width="12.000099"
      id="center"
-     style="color:#eff0f1;opacity:0.7;fill:#1e2328;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
+     style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.81648964"
      id="hint-top-margin"

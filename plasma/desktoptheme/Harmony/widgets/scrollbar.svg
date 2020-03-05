@@ -457,7 +457,7 @@
        class="ColorScheme-ViewBackground" />
   </g>
   <rect
-     style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+     style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
      height="10"
      width="1"
      y="64"
@@ -468,7 +468,7 @@
      transform="matrix(0.75,0,0,1,19.25,57)"
      id="sunken-slider-right">
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path105"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -494,7 +494,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-77)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path112"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -512,7 +512,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-83)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path117"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -522,7 +522,7 @@
      transform="matrix(-0.75,0,0,1,29.75,57)"
      id="sunken-slider-left">
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path120"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -548,7 +548,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-77)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path127"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -566,7 +566,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-83)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path132"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -584,7 +584,7 @@
        x="24"
        transform="matrix(0,-10,-1.3333,0,93,257)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path137"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -602,14 +602,14 @@
        x="24"
        transform="matrix(0,-10,1.3333,0,-91,257)" />
     <path
-       style="color:#93cee9;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path142"
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-ButtonHover" />
   </g>
   <rect
-     style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+     style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
      height="10"
      width="1"
      y="42"
@@ -620,7 +620,7 @@
      transform="matrix(0.75,0,0,1,19.25,35)"
      id="mouseover-slider-right">
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path146"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -646,7 +646,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-77)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path153"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -664,7 +664,7 @@
        x="26"
        transform="matrix(1.3333,0,0,1.3333,-25.667,-83)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path158"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -674,7 +674,7 @@
      transform="matrix(-0.75,0,0,1,29.75,35)"
      id="mouseover-slider-left">
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path161"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -700,7 +700,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-77)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path168"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -718,7 +718,7 @@
        x="19"
        transform="matrix(-1.3333,0,0,1.3333,39.667,-83)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path173"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -736,7 +736,7 @@
        x="24"
        transform="matrix(0,-10,-1.3333,0,93,257)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path178"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -754,7 +754,7 @@
        x="24"
        transform="matrix(0,-10,1.3333,0,-91,257)" />
     <path
-       style="color:#93cee9;opacity:0.6;fill:#4285f4;fill-rule:evenodd"
+       style="color:#93cee9;opacity:0.6;fill:#3278e6;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path183"
        d="m 9,7 v 10 h 4 V 7 Z"
