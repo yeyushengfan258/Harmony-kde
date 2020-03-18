@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="973"
+     inkscape:window-height="1017"
      id="namedview204"
      showgrid="true"
      inkscape:zoom="9.5152868"
-     inkscape:cx="48.921679"
+     inkscape:cx="10.247069"
      inkscape:cy="28.385084"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg202">
     <inkscape:grid
@@ -397,7 +397,7 @@
        height="32"
        width="6"
        id="rect4152"
-       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-Background" />
   </g>
@@ -405,7 +405,7 @@
      id="topleft"
      transform="translate(19,-904.36219)">
     <path
-       style="opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:2"
+       style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
        d="M 38 6 C 34.676 6 32 8.676 32 12 L 32 18 L 44 18 L 44 6 L 38 6 z "
        transform="translate(-19,904.36219)"
        id="rect4159" />
@@ -415,7 +415,7 @@
      transform="matrix(0.62500095,0,0,2.0000038,32.124961,-1858.728)">
     <rect
        transform="rotate(90)"
-       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4148"
        width="6"
        height="32"
@@ -428,7 +428,7 @@
      transform="matrix(1.9999994,0,0,0.62499857,6.0000031,-554.72504)">
     <rect
        transform="scale(-1,1)"
-       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4144"
        width="5.9999995"
        height="32"
@@ -445,7 +445,7 @@
        height="32"
        width="5.9999995"
        id="rect4140"
-       style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none"
        class="ColorScheme-Background" />
   </g>
   <rect
@@ -455,7 +455,7 @@
      height="19.999992"
      width="19.999992"
      id="center"
-     style="color:#eff0f1;opacity:0.8;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.62499976" />
+     style="color:#eff0f1;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62499976" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.99999601"
      id="hint-top-margin"
