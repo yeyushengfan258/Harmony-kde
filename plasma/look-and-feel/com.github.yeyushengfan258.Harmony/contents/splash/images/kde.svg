@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4379"
-   width="200"
-   height="200"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="kde.svg"
+   viewBox="0 0 200 200"
    version="1.1"
-   viewBox="0 0 200 200">
+   sodipodi:docname="kde.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="200"
+   width="200"
+   id="svg4379">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -28,41 +28,46 @@
   <defs
      id="defs8" />
   <sodipodi:namedview
-     id="namedview39"
-     bordercolor="#666666"
-     borderopacity="1"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:current-layer="svg4379"
-     inkscape:cx="4.1477289"
-     inkscape:cy="91.470252"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-height="1023"
-     inkscape:window-maximized="1"
-     inkscape:window-width="1920"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:zoom="1.9975"
-     objecttolerance="10"
-     pagecolor="#dfe2e4"
-     showgrid="true"
-     inkscape:snap-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox="true"
+     showgrid="true"
+     pagecolor="#dfe2e4"
+     objecttolerance="10"
+     inkscape:zoom="1.4124458"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-width="1920"
+     inkscape:window-maximized="1"
+     inkscape:window-height="1023"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:cy="130.93028"
+     inkscape:cx="-79.712659"
+     inkscape:current-layer="svg4379"
+     guidetolerance="10"
+     gridtolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     id="namedview39">
     <inkscape:grid
-       id="grid839"
-       type="xygrid" />
+       type="xygrid"
+       id="grid839" />
   </sodipodi:namedview>
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.21253204px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.8803134"
-     x="9.2606773"
-     y="109.03525"
-     id="text1505"><tspan
-       sodipodi:role="line"
-       id="tspan1503"
-       x="9.2606773"
-       y="109.03525"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.21253204px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.8803134">Harmony</tspan></text>
+  <g
+     transform="matrix(4.6153846,0,0,4.6153846,418.46154,29.230769)"
+     id="g1092">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.47578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m -69,-2 a 13,13 0 0 0 -13,13 13,13 0 0 0 13,13 13,13 0 0 0 13,-13 13,13 0 0 0 -13,-13 z m 0,4 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 z"
+       id="circle1066" />
+    <circle
+       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.454088;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="circle1086"
+       cx="-69"
+       cy="11"
+       r="4" />
+  </g>
 </svg>

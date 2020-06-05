@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="76"
-   height="66"
-   version="1.1"
-   id="svg72"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="slider.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   id="svg72"
+   version="1.1"
+   height="66"
+   width="76">
   <metadata
      id="metadata78">
     <rdf:RDF>
@@ -27,284 +27,285 @@
   <defs
      id="defs76" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     id="namedview74"
-     showgrid="true"
-     inkscape:zoom="5.6135925"
-     inkscape:cx="46.600446"
-     inkscape:cy="81.23897"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg72"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg72">
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="-19.277248"
+     inkscape:cx="7.5293411"
+     inkscape:zoom="44.90874"
+     showgrid="true"
+     id="namedview74"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <inkscape:grid
-       type="xygrid"
-       id="grid885" />
+       id="grid885"
+       type="xygrid" />
   </sodipodi:namedview>
   <g
-     stroke-width=".91667"
-     id="g40">
+     id="g40"
+     stroke-width=".91667">
     <g
-       id="horizontal-slider-handle"
-       transform="matrix(.75 0 0 .75 -18.75 28)">
+       transform="matrix(.75 0 0 .75 -18.75 28)"
+       id="horizontal-slider-handle">
       <rect
-         x="25"
-         y="4"
-         width="32"
-         height="32"
+         id="rect2"
          opacity="0"
-         id="rect2" />
+         height="32"
+         width="32"
+         y="4"
+         x="25" />
       <circle
-         cx="41"
-         cy="20"
-         r="8"
+         id="circle4"
          fill="#3278e6"
-         id="circle4" />
+         r="8"
+         cy="20"
+         cx="41" />
     </g>
     <g
-       id="horizontal-slider-hover"
-       transform="matrix(.75 0 0 .75 6.25 27)">
+       transform="matrix(.75 0 0 .75 6.25 27)"
+       id="horizontal-slider-hover">
       <rect
-         x="25"
-         y="4"
-         width="32"
-         height="32"
+         id="rect7"
          opacity="0"
-         id="rect7" />
+         height="32"
+         width="32"
+         y="4"
+         x="25" />
       <circle
-         cx="41"
-         cy="20"
-         r="16"
-         fill="#3278e6"
+         id="circle9"
          opacity=".2"
-         id="circle9" />
-      <circle
-         cx="41"
-         cy="20"
-         r="8"
          fill="#3278e6"
-         id="circle11" />
+         r="16"
+         cy="20"
+         cx="41" />
+      <circle
+         id="circle11"
+         fill="#3278e6"
+         r="8"
+         cy="20"
+         cx="41" />
     </g>
     <g
-       id="horizontal-slider-focus"
-       transform="matrix(.75 0 0 .75 31.25 28)">
+       transform="matrix(.75 0 0 .75 31.25 28)"
+       id="horizontal-slider-focus">
       <rect
-         x="25"
-         y="4"
-         width="32"
-         height="32"
+         id="rect14"
          opacity="0"
-         id="rect14" />
+         height="32"
+         width="32"
+         y="4"
+         x="25" />
       <circle
-         cx="41"
-         cy="20"
-         r="16"
-         fill="#3278e6"
+         id="circle16"
          opacity=".3"
-         id="circle16" />
-      <circle
-         cx="41"
-         cy="20"
-         r="8"
          fill="#3278e6"
-         id="circle18" />
-    </g>
-    <g
-       id="vertical-slider-handle"
-       transform="matrix(.75 0 0 .75 -18.75 -3)">
-      <rect
-         x="25"
-         y="4"
-         width="32"
-         height="32"
-         opacity="0"
-         id="rect21" />
-      <circle
-         cx="41"
-         cy="20"
-         r="8"
-         fill="#3278e6"
-         id="circle23" />
-    </g>
-    <g
-       id="vertical-slider-hover"
-       transform="matrix(.75 0 0 .75 6.25 -3)">
-      <rect
-         x="25"
-         y="4"
-         width="32"
-         height="32"
-         opacity="0"
-         id="rect26" />
-      <circle
-         cx="41"
-         cy="20"
          r="16"
+         cy="20"
+         cx="41" />
+      <circle
+         id="circle18"
          fill="#3278e6"
+         r="8"
+         cy="20"
+         cx="41" />
+    </g>
+    <g
+       transform="matrix(.75 0 0 .75 -18.75 -3)"
+       id="vertical-slider-handle">
+      <rect
+         id="rect21"
+         opacity="0"
+         height="32"
+         width="32"
+         y="4"
+         x="25" />
+      <circle
+         id="circle23"
+         fill="#3278e6"
+         r="8"
+         cy="20"
+         cx="41" />
+    </g>
+    <g
+       transform="matrix(.75 0 0 .75 6.25 -3)"
+       id="vertical-slider-hover">
+      <rect
+         id="rect26"
+         opacity="0"
+         height="32"
+         width="32"
+         y="4"
+         x="25" />
+      <circle
+         id="circle28"
          opacity=".2"
-         id="circle28" />
-      <circle
-         cx="41"
-         cy="20"
-         r="8"
          fill="#3278e6"
-         id="circle30" />
+         r="16"
+         cy="20"
+         cx="41" />
+      <circle
+         id="circle30"
+         fill="#3278e6"
+         r="8"
+         cy="20"
+         cx="41" />
     </g>
     <g
-       id="vertical-slider-focus"
-       transform="matrix(.75 0 0 .75 31.25 -3)">
+       transform="matrix(.75 0 0 .75 31.25 -3)"
+       id="vertical-slider-focus">
       <rect
-         x="25"
-         y="4"
-         width="32"
-         height="32"
+         id="rect33"
          opacity="0"
-         id="rect33" />
+         height="32"
+         width="32"
+         y="4"
+         x="25" />
       <circle
-         cx="41"
-         cy="20"
-         r="16"
-         fill="#3278e6"
+         id="circle35"
          opacity=".3"
-         id="circle35" />
-      <circle
-         cx="41"
-         cy="20"
-         r="8"
          fill="#3278e6"
-         id="circle37" />
+         r="16"
+         cy="20"
+         cx="41" />
+      <circle
+         id="circle37"
+         fill="#3278e6"
+         r="8"
+         cy="20"
+         cx="41" />
     </g>
   </g>
   <path
-     style="opacity:0.3;stroke-width:1"
-     inkscape:connector-curvature="0"
+     id="groove-top"
+     class="ColorScheme-Text"
      d="m 7,-20 v 1 h 1 v -1 z"
-     class="ColorScheme-Text"
-     id="groove-top" />
-  <path
-     style="opacity:0.3;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-topleft"
+     class="ColorScheme-Text"
      d="m 6,-20.019723 c -0.5607333,0 -1,0.44793 -1,1.019723 h 1 z"
-     class="ColorScheme-Text"
-     id="groove-topleft" />
+     inkscape:connector-curvature="0"
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1" />
   <rect
-     style="fill:#4e9a06"
-     ry="2"
-     rx="0"
-     height="2"
-     width="2"
-     y="-24"
+     id="hint-tile-center"
      x="-1"
-     id="hint-tile-center" />
+     y="-24"
+     width="2"
+     height="2"
+     rx="0"
+     ry="2"
+     style="fill:#4e9a06" />
   <path
-     style="opacity:0.3;stroke-width:0.99999994"
-     inkscape:connector-curvature="0"
+     id="groove-topright"
+     class="ColorScheme-Text"
      d="m 10,-19 c 0,-0.516272 -0.439267,-0.920708 -1,-0.920708 V -19 Z"
-     class="ColorScheme-Text"
-     id="groove-topright" />
-  <path
-     style="opacity:0.3;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.7;stroke-width:0.99999994;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-bottom"
+     class="ColorScheme-Text"
      d="m 7,-15 v -1 h 1 v 1 z"
-     class="ColorScheme-Text"
-     id="groove-bottom" />
-  <path
-     style="opacity:0.3;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-bottomleft"
+     class="ColorScheme-Text"
      d="m 6,-15 c -0.4977652,0 -0.887704,-0.439267 -0.887704,-1 H 6 Z"
-     class="ColorScheme-Text"
-     id="groove-bottomleft" />
-  <path
-     style="opacity:0.3;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-bottomright"
+     class="ColorScheme-Text"
      d="m 10,-16 c 0,0.560733 -0.4392667,1 -1,1 v -1 z"
-     class="ColorScheme-Text"
-     id="groove-bottomright" />
+     inkscape:connector-curvature="0"
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1" />
   <path
-     id="groove-center"
-     class="ColorScheme-Text"
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1"
+     inkscape:connector-curvature="0"
      d="m 7,-18 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     style="opacity:0.3;stroke-width:1" />
-  <path
-     id="groove-left"
      class="ColorScheme-Text"
+     id="groove-center" />
+  <path
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1"
+     inkscape:connector-curvature="0"
      d="m 5,-18 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     style="opacity:0.3;stroke-width:1" />
-  <path
-     id="groove-right"
      class="ColorScheme-Text"
+     id="groove-left" />
+  <path
+     style="opacity:0.7;stroke-width:1;fill:#000000;fill-opacity:1"
+     inkscape:connector-curvature="0"
      d="m 9,-18 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     style="opacity:0.3;stroke-width:1" />
+     class="ColorScheme-Text"
+     id="groove-right" />
   <path
-     style="fill:#3278e6;stroke-width:1"
-     inkscape:connector-curvature="0"
+     id="groove-highlight-top"
+     class="ColorScheme-ButtonHover"
      d="m 25,-20 v 1 h 1 v -1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-top" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     id="groove-highlight-topleft"
+     class="ColorScheme-ButtonHover"
      d="m 24,-20 c -0.560733,0 -1,0.439266 -1,1 h 1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-topleft" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     id="groove-highlight-topright"
+     class="ColorScheme-ButtonHover"
      d="m 28,-19 c 0,-0.560734 -0.439267,-1 -1,-1 v 1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-topright" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     id="groove-highlight-bottom"
+     class="ColorScheme-ButtonHover"
      d="m 25,-15 v -1 h 1 v 1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-bottom" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     id="groove-highlight-bottomleft"
+     class="ColorScheme-ButtonHover"
      d="m 24,-15 c -0.569866,0 -1.016288,-0.439267 -1.016288,-1 H 24 Z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-bottomleft" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
      inkscape:connector-curvature="0"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     id="groove-highlight-bottomright"
+     class="ColorScheme-ButtonHover"
      d="m 28.039625,-16 c 0,0.560733 -0.456673,1 -1.039625,1 v -1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-bottomright" />
+     inkscape:connector-curvature="0"
+     style="fill:#3278e6;stroke-width:1" />
   <path
-     style="fill:#3278e6;stroke-width:1"
-     id="groove-highlight-center"
-     class="ColorScheme-ButtonHover"
+     inkscape:connector-curvature="0"
      d="m 25,-18 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
-     id="groove-highlight-left"
      class="ColorScheme-ButtonHover"
+     id="groove-highlight-center"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     inkscape:connector-curvature="0"
      d="m 23,-18 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#3278e6;stroke-width:1"
-     id="groove-highlight-right"
      class="ColorScheme-ButtonHover"
+     id="groove-highlight-left"
+     style="fill:#3278e6;stroke-width:1" />
+  <path
+     inkscape:connector-curvature="0"
      d="m 27,-18 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-ButtonHover"
+     id="groove-highlight-right"
+     style="fill:#3278e6;stroke-width:1" />
   <circle
-     id="hint-handle-size"
-     cx="50.955"
-     cy="-15.313"
+     fill="#ff2a2a"
      r="12"
-     fill="#ff2a2a" />
+     cy="-15.313"
+     cx="50.955"
+     id="hint-handle-size" />
 </svg>
